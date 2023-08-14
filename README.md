@@ -1,7 +1,7 @@
 # pet_pytest
 My pytest pet project
 
-## Test start:
+## Start tests:
 1. pytest -v -s --alluredir=/tmp/allure_results
 2. allure serve /tmp/allure_results
 
